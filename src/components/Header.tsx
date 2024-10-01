@@ -1,4 +1,4 @@
-﻿function Header() {
+function Header() {
   return (
     <>
       <h1>Patrick's Content Management Prototype</h1>

@@ -1,4 +1,4 @@
-﻿import { ChallengeData } from "../ChallengeData";
+import { ChallengeData } from "../ChallengeData";
 // import "../Challenge.css";
 
 interface Props {
