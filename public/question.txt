@@ -1,0 +1,4 @@
+How are you doing?Fine,Alright,Good,Bad,Decent,Meh,Amazing,Awful,Fantastic,Great
+What is your favourite colour?Red,Green,Blue,Yellow,Purple,Orange,Lightblue,Pink,Magenta,Cyan
+What is your favourite animal?Dog,Cat,Lion,Wolf,Tiger,Snake,Monkey,Shark,Elephant,Tucan
+What is your favourite kitchen (food origin)?Italian,Chinese,Japanese,French,Spanish,Indian,Greek,Thai,Mexican,American
