@@ -3,15 +3,15 @@ import Header from "./components/Header";
 import Challenges from "./components/Challenges";
 
 function App() {
-  let amount = Math.floor(Math.random() * 10);
-  if (amount === 0) {
-    amount = 1;
-  }
+  // let amount = Math.floor(Math.random() * 10);
+  // if (amount === 0) {
+  //   amount = 1;
+  // }
 
   return (
       <>
         <Header></Header>
-        <Challenges amount={amount}></Challenges>
+        <Challenges></Challenges>
       </>
   );
 }

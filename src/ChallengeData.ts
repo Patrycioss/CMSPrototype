@@ -3,7 +3,7 @@ function genUniqueId(): string {
 
   const randomStr = Math.random().toString(36).substring(2, 8); // start at index 2 to skip decimal point
 
-  return `${dateStr}-${randomStr}`;
+  return `${dateStr}-${randomStr}-${Math.random()}`;
 }
 
 export class ChallengeData {
